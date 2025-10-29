@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 nalgebra = "0.33.2"
+num_cpus = "1.17.0"
 rayon = "1.11.0"
 
 [dev-dependencies]
